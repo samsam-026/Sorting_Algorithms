@@ -8,7 +8,7 @@ public class BubbleSort {
 
 		// this sorting algorithm guarantees at each iteration that the last element of
 		// the array is sorted.
-		int numbers[] = { 6, 0, 3, 5 };
+		int numbers[] = { 14, 33, 27, 10, 35, 19, 42, 44 };
 		boolean swapped = false;
 
 		// the number of elements that still need to be sorted.
